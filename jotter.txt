@@ -1,5 +1,5 @@
 
 Data Structures And Algorithm 
 -
-O((Logn)) is used when the code sorts or devides or multiplies
+O((Logn)) is used when the code sorts or divides or multiplies
 O(n square) is when there is a double loop in the code.
